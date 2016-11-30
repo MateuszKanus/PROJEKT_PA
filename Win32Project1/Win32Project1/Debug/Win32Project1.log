@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  Win32Project1.vcxproj -> C:\Users\DariusziElżbieta\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\Win32Project1.exe
